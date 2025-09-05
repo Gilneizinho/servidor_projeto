@@ -1,0 +1,674 @@
+2025-08-29 15:19:50,125 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-08-29 15:19:50,125 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 15:20:05,874 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-08-29 15:20:05,874 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 15:20:36,232 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:20:36,233 - INFO - 10.228.249.210 - - [29/Aug/2025 15:20:36] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:20:53,138 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:20:53,140 - INFO - 10.228.249.210 - - [29/Aug/2025 15:20:53] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:20:55,183 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:20:55,184 - INFO - 10.228.249.210 - - [29/Aug/2025 15:20:55] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:20:56,424 - INFO - Tag excluída com sucesso!
+2025-08-29 15:20:56,425 - INFO - 10.228.249.210 - - [29/Aug/2025 15:20:56] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:21:00,274 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:21:00,275 - INFO - 10.228.249.210 - - [29/Aug/2025 15:21:00] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:21:52,722 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:21:52,724 - INFO - 10.228.249.210 - - [29/Aug/2025 15:21:52] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:21:54,778 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:21:54,779 - INFO - 10.228.249.210 - - [29/Aug/2025 15:21:54] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:21:56,086 - INFO - Tag excluída com sucesso!
+2025-08-29 15:21:56,087 - INFO - 10.228.249.210 - - [29/Aug/2025 15:21:56] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:22:00,544 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:22:00,545 - INFO - 10.228.249.210 - - [29/Aug/2025 15:22:00] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:23:33,485 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:23:33,487 - INFO - 10.228.249.210 - - [29/Aug/2025 15:23:33] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:23:35,426 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:23:35,427 - INFO - 10.228.249.210 - - [29/Aug/2025 15:23:35] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:23:36,604 - INFO - Tag excluída com sucesso!
+2025-08-29 15:23:36,605 - INFO - 10.228.249.210 - - [29/Aug/2025 15:23:36] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:23:39,920 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:23:39,922 - INFO - 10.228.249.210 - - [29/Aug/2025 15:23:39] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:25:53,586 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:25:53,588 - INFO - 10.228.249.210 - - [29/Aug/2025 15:25:53] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:25:55,919 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:25:55,920 - INFO - 10.228.249.210 - - [29/Aug/2025 15:25:55] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:25:56,852 - INFO - Tag excluída com sucesso!
+2025-08-29 15:25:56,853 - INFO - 10.228.249.210 - - [29/Aug/2025 15:25:56] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:26:02,910 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:26:02,912 - INFO - 10.228.249.210 - - [29/Aug/2025 15:26:02] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:27:43,062 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:27:43,064 - INFO - 10.228.249.210 - - [29/Aug/2025 15:27:43] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:27:47,726 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:27:47,727 - INFO - 10.228.249.210 - - [29/Aug/2025 15:27:47] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:27:48,203 - INFO - Tag excluída com sucesso!
+2025-08-29 15:27:48,204 - INFO - 10.228.249.210 - - [29/Aug/2025 15:27:48] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:27:51,728 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:27:51,729 - INFO - 10.228.249.210 - - [29/Aug/2025 15:27:51] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:29:33,534 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:29:33,536 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:33] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:29:35,419 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:29:35,421 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:35] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:29:35,995 - INFO - Tag excluída com sucesso!
+2025-08-29 15:29:35,996 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:35] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:29:37,779 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:29:37,780 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:37] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:29:46,139 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:29:46,140 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:46] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:29:48,173 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:29:48,174 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:48] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:29:49,453 - INFO - Tag excluída com sucesso!
+2025-08-29 15:29:49,455 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:49] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:29:52,919 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:29:52,921 - INFO - 10.228.249.210 - - [29/Aug/2025 15:29:52] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:31:22,598 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:31:22,600 - INFO - 10.228.249.210 - - [29/Aug/2025 15:31:22] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:31:24,651 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:31:24,652 - INFO - 10.228.249.210 - - [29/Aug/2025 15:31:24] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:31:25,530 - INFO - Tag excluída com sucesso!
+2025-08-29 15:31:25,531 - INFO - 10.228.249.210 - - [29/Aug/2025 15:31:25] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:31:28,288 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:31:28,289 - INFO - 10.228.249.210 - - [29/Aug/2025 15:31:28] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:37:00,242 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:37:00,243 - INFO - 10.228.249.210 - - [29/Aug/2025 15:37:00] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:37:38,437 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:37:38,438 - INFO - 10.228.249.210 - - [29/Aug/2025 15:37:38] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:41:26,351 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:41:26,352 - INFO - 10.228.249.210 - - [29/Aug/2025 15:41:26] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:41:35,080 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:41:35,081 - INFO - 10.228.249.210 - - [29/Aug/2025 15:41:35] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:41:38,463 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:41:38,465 - INFO - 10.228.249.210 - - [29/Aug/2025 15:41:38] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:41:45,530 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:41:45,531 - INFO - 10.228.249.210 - - [29/Aug/2025 15:41:45] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:43:19,742 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:43:19,744 - INFO - 10.228.249.210 - - [29/Aug/2025 15:43:19] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:43:27,111 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:43:27,112 - INFO - 10.228.249.210 - - [29/Aug/2025 15:43:27] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:44:48,940 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:44:48,941 - INFO - 10.228.249.210 - - [29/Aug/2025 15:44:48] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:44:56,100 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:44:56,101 - INFO - 10.228.249.210 - - [29/Aug/2025 15:44:56] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:44:57,198 - INFO - Tag excluída com sucesso!
+2025-08-29 15:44:57,199 - INFO - 10.228.249.210 - - [29/Aug/2025 15:44:57] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:50:01,151 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:50:01,153 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:01] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:50:07,083 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:50:07,085 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:07] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:50:13,846 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:50:13,847 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:13] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:50:14,759 - INFO - Tag excluída com sucesso!
+2025-08-29 15:50:14,760 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:14] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:50:19,150 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:50:19,151 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:19] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:50:23,071 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:50:23,072 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:23] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:50:32,797 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:50:32,798 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:32] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:50:51,543 - INFO - 10.228.249.210 - - [29/Aug/2025 15:50:51] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 15:54:17,771 - INFO - 10.228.249.210 - - [29/Aug/2025 15:54:17] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 15:56:08,976 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:56:08,977 - INFO - 10.228.249.210 - - [29/Aug/2025 15:56:08] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:56:16,242 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:56:16,242 - INFO - 10.228.249.210 - - [29/Aug/2025 15:56:16] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:56:21,983 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:56:21,984 - INFO - 10.228.249.210 - - [29/Aug/2025 15:56:21] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:56:29,270 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:56:29,272 - INFO - 10.228.249.210 - - [29/Aug/2025 15:56:29] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:56:30,195 - INFO - 127.0.0.1 - - [29/Aug/2025 15:56:30] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 15:56:30,627 - INFO - 127.0.0.1 - - [29/Aug/2025 15:56:30] "POST /login HTTP/1.1" 200 -
+2025-08-29 15:56:30,771 - INFO - 127.0.0.1 - - [29/Aug/2025 15:56:30] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:56:31,102 - INFO - 127.0.0.1 - - [29/Aug/2025 15:56:31] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:56:50,111 - INFO - 127.0.0.1 - - [29/Aug/2025 15:56:50] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:56:50,430 - INFO - 127.0.0.1 - - [29/Aug/2025 15:56:50] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:57:10,466 - INFO - 127.0.0.1 - - [29/Aug/2025 15:57:10] "POST /logout HTTP/1.1" 200 -
+2025-08-29 15:57:18,145 - INFO - 127.0.0.1 - - [29/Aug/2025 15:57:18] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 15:57:18,590 - INFO - 127.0.0.1 - - [29/Aug/2025 15:57:18] "POST /login HTTP/1.1" 200 -
+2025-08-29 15:57:18,645 - INFO - 127.0.0.1 - - [29/Aug/2025 15:57:18] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:57:18,977 - INFO - 127.0.0.1 - - [29/Aug/2025 15:57:18] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:57:31,215 - INFO - 127.0.0.1 - - [29/Aug/2025 15:57:31] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:57:31,539 - INFO - 127.0.0.1 - - [29/Aug/2025 15:57:31] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:57:39,943 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:57:39,944 - INFO - 10.228.249.210 - - [29/Aug/2025 15:57:39] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:57:46,995 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:57:46,996 - INFO - 10.228.249.210 - - [29/Aug/2025 15:57:46] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:57:47,798 - INFO - Você não pode excluir uma tag associada a alguém!
+2025-08-29 15:57:47,800 - INFO - 10.228.249.210 - - [29/Aug/2025 15:57:47] "[31m[1mPOST /cadastro_tag HTTP/1.1[0m" 422 -
+2025-08-29 15:57:49,849 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:57:49,851 - INFO - 10.228.249.210 - - [29/Aug/2025 15:57:49] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:58:08,913 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:58:08,915 - INFO - 10.228.249.210 - - [29/Aug/2025 15:58:08] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:58:13,010 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:58:13,011 - INFO - 10.228.249.210 - - [29/Aug/2025 15:58:13] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:58:20,184 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:58:20,185 - INFO - 10.228.249.210 - - [29/Aug/2025 15:58:20] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:58:22,242 - INFO - 127.0.0.1 - - [29/Aug/2025 15:58:22] "POST /logout HTTP/1.1" 200 -
+2025-08-29 15:58:23,633 - INFO - Tag excluída com sucesso!
+2025-08-29 15:58:23,634 - INFO - 10.228.249.210 - - [29/Aug/2025 15:58:23] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-08-29 15:58:28,474 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:58:28,475 - INFO - 10.228.249.210 - - [29/Aug/2025 15:58:28] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:58:32,357 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:58:32,359 - INFO - 10.228.249.210 - - [29/Aug/2025 15:58:32] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:58:38,959 - INFO - 127.0.0.1 - - [29/Aug/2025 15:58:38] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 15:58:42,850 - INFO - Deseja excluir a tag 734710D8?
+2025-08-29 15:58:42,852 - INFO - 10.228.249.210 - - [29/Aug/2025 15:58:42] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-08-29 15:58:44,830 - INFO - E-mail enviado com sucesso.
+2025-08-29 15:58:44,830 - INFO - Código enviado! Verifique seu e-mail.
+2025-08-29 15:58:44,832 - INFO - 127.0.0.1 - - [29/Aug/2025 15:58:44] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 15:58:54,570 - INFO - 127.0.0.1 - - [29/Aug/2025 15:58:54] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 15:58:54,990 - INFO - 127.0.0.1 - - [29/Aug/2025 15:58:54] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 15:59:03,599 - INFO - 10.228.249.210 - - [29/Aug/2025 15:59:03] "[31m[1mPOST /verificar_tag HTTP/1.1[0m" 401 -
+2025-08-29 15:59:10,929 - INFO - Tag cadastrada com sucesso!
+2025-08-29 15:59:10,930 - INFO - 10.228.249.210 - - [29/Aug/2025 15:59:10] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 15:59:16,113 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:16] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-08-29 15:59:16,697 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:16] "POST /cadastro HTTP/1.1" 200 -
+2025-08-29 15:59:27,152 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:27] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 15:59:27,643 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:27] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-29 15:59:32,153 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:32] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-29 15:59:36,742 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:36] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 15:59:37,179 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:37] "POST /login HTTP/1.1" 200 -
+2025-08-29 15:59:37,226 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:37] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-08-29 15:59:37,549 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:37] "GET /master_painel HTTP/1.1" 200 -
+2025-08-29 15:59:37,551 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:37] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-08-29 15:59:37,552 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:37] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-08-29 15:59:38,914 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:38] "OPTIONS /aprovar/2 HTTP/1.1" 200 -
+2025-08-29 15:59:39,337 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:39] "POST /aprovar/2 HTTP/1.1" 200 -
+2025-08-29 15:59:40,279 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:40] "GET /master_painel HTTP/1.1" 200 -
+2025-08-29 15:59:40,605 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:40] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-08-29 15:59:40,607 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:40] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-08-29 15:59:41,615 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:41] "OPTIONS /logout HTTP/1.1" 200 -
+2025-08-29 15:59:41,879 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:41] "POST /logout HTTP/1.1" 200 -
+2025-08-29 15:59:45,954 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:45] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 15:59:46,453 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:46] "POST /login HTTP/1.1" 200 -
+2025-08-29 15:59:46,541 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:46] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 15:59:46,837 - INFO - 127.0.0.1 - - [29/Aug/2025 15:59:46] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:00:01,241 - INFO - 127.0.0.1 - - [29/Aug/2025 16:00:01] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:00:01,584 - INFO - 127.0.0.1 - - [29/Aug/2025 16:00:01] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:00:04,010 - INFO - 127.0.0.1 - - [29/Aug/2025 16:00:04] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:00:25,531 - INFO - 127.0.0.1 - - [29/Aug/2025 16:00:25] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:00:25,797 - INFO - 127.0.0.1 - - [29/Aug/2025 16:00:25] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:00:49,772 - INFO - Tag cadastrada com sucesso!
+2025-08-29 16:00:49,773 - INFO - 10.228.249.210 - - [29/Aug/2025 16:00:49] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-08-29 16:02:38,951 - INFO - 127.0.0.1 - - [29/Aug/2025 16:02:38] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:02:39,217 - INFO - 127.0.0.1 - - [29/Aug/2025 16:02:39] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:03:00,946 - INFO - 127.0.0.1 - - [29/Aug/2025 16:03:00] "POST /logout HTTP/1.1" 200 -
+2025-08-29 16:03:35,189 - INFO - 127.0.0.1 - - [29/Aug/2025 16:03:35] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 16:03:41,079 - INFO - E-mail enviado com sucesso.
+2025-08-29 16:03:41,079 - INFO - Código enviado! Verifique seu e-mail.
+2025-08-29 16:03:41,080 - INFO - 127.0.0.1 - - [29/Aug/2025 16:03:41] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 16:03:50,610 - INFO - 127.0.0.1 - - [29/Aug/2025 16:03:50] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 16:03:51,019 - INFO - 127.0.0.1 - - [29/Aug/2025 16:03:51] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 16:03:54,725 - INFO - 127.0.0.1 - - [29/Aug/2025 16:03:54] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-08-29 16:03:55,271 - INFO - 127.0.0.1 - - [29/Aug/2025 16:03:55] "[31m[1mPOST /cadastro HTTP/1.1[0m" 400 -
+2025-08-29 16:05:02,143 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:02] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-08-29 16:05:02,656 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:02] "POST /cadastro HTTP/1.1" 200 -
+2025-08-29 16:05:12,117 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:12] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 16:05:12,608 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:12] "POST /login HTTP/1.1" 200 -
+2025-08-29 16:05:12,700 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:12] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-08-29 16:05:12,950 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:12] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-08-29 16:05:12,955 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:12] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-08-29 16:05:12,959 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:12] "GET /master_painel HTTP/1.1" 200 -
+2025-08-29 16:05:13,923 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:13] "OPTIONS /aprovar/2 HTTP/1.1" 200 -
+2025-08-29 16:05:14,312 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:14] "POST /aprovar/2 HTTP/1.1" 200 -
+2025-08-29 16:05:15,023 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:15] "GET /master_painel HTTP/1.1" 200 -
+2025-08-29 16:05:15,348 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:15] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-08-29 16:05:15,350 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:15] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-08-29 16:05:16,201 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:16] "OPTIONS /logout HTTP/1.1" 200 -
+2025-08-29 16:05:16,467 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:16] "POST /logout HTTP/1.1" 200 -
+2025-08-29 16:05:19,693 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:19] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 16:05:20,185 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:20] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-29 16:05:24,922 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:24] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 16:05:25,381 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:25] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-29 16:05:32,930 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:32] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 16:05:33,436 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:33] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-29 16:05:40,258 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:40] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 16:05:40,768 - INFO - 127.0.0.1 - - [29/Aug/2025 16:05:40] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-08-29 16:06:02,890 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:02] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 16:06:09,332 - INFO - E-mail enviado com sucesso.
+2025-08-29 16:06:09,332 - INFO - Código enviado! Verifique seu e-mail.
+2025-08-29 16:06:09,334 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:09] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 16:06:18,523 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:18] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 16:06:18,840 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:18] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 16:06:35,131 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:35] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 16:06:40,747 - INFO - E-mail enviado com sucesso.
+2025-08-29 16:06:40,747 - INFO - Código enviado! Verifique seu e-mail.
+2025-08-29 16:06:40,748 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:40] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-08-29 16:06:48,586 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:48] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 16:06:49,007 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:49] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-08-29 16:06:56,188 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:56] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-08-29 16:06:56,731 - INFO - 127.0.0.1 - - [29/Aug/2025 16:06:56] "POST /cadastro HTTP/1.1" 200 -
+2025-08-29 16:07:07,900 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:07] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 16:07:08,404 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:08] "POST /login HTTP/1.1" 200 -
+2025-08-29 16:07:08,475 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:08] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-08-29 16:07:08,763 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:08] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-08-29 16:07:08,791 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:08] "GET /master_painel HTTP/1.1" 200 -
+2025-08-29 16:07:08,792 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:08] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-08-29 16:07:09,594 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:09] "OPTIONS /aprovar/2 HTTP/1.1" 200 -
+2025-08-29 16:07:10,022 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:10] "POST /aprovar/2 HTTP/1.1" 200 -
+2025-08-29 16:07:10,728 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:10] "GET /master_painel HTTP/1.1" 200 -
+2025-08-29 16:07:11,038 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:11] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-08-29 16:07:11,039 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:11] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-08-29 16:07:11,854 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:11] "OPTIONS /logout HTTP/1.1" 200 -
+2025-08-29 16:07:12,118 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:12] "POST /logout HTTP/1.1" 200 -
+2025-08-29 16:07:16,667 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:16] "OPTIONS /login HTTP/1.1" 200 -
+2025-08-29 16:07:17,169 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:17] "POST /login HTTP/1.1" 200 -
+2025-08-29 16:07:17,253 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:17] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:07:17,537 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:17] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:07:20,923 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:20] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:07:21,260 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:21] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:07:33,274 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:33] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:07:33,600 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:33] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:07:34,908 - INFO - 127.0.0.1 - - [29/Aug/2025 16:07:34] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:07:48,001 - INFO - 10.228.249.210 - - [29/Aug/2025 16:07:48] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:08:02,026 - INFO - 10.228.249.210 - - [29/Aug/2025 16:08:02] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:08:12,060 - INFO - 10.228.249.210 - - [29/Aug/2025 16:08:12] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:08:50,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-08-29 16:08:50,308 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 16:08:54,174 - INFO - 10.228.249.210 - - [29/Aug/2025 16:08:54] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:09:04,497 - INFO - 10.228.249.210 - - [29/Aug/2025 16:09:04] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:09:14,440 - INFO - 10.228.249.210 - - [29/Aug/2025 16:09:14] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:09:28,558 - INFO - 10.228.249.210 - - [29/Aug/2025 16:09:28] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:09:40,113 - INFO - 127.0.0.1 - - [29/Aug/2025 16:09:40] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:09:40,391 - INFO - 127.0.0.1 - - [29/Aug/2025 16:09:40] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:09:54,009 - INFO - 127.0.0.1 - - [29/Aug/2025 16:09:54] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:09:54,337 - INFO - 127.0.0.1 - - [29/Aug/2025 16:09:54] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:10:32,487 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-08-29 16:10:32,487 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 16:10:36,768 - INFO - 10.228.249.210 - - [29/Aug/2025 16:10:36] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:11:12,268 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:12] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-08-29 16:11:12,319 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:12] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-08-29 16:11:12,320 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:12] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-08-29 16:11:12,569 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:12] "[31m[1mGET /master_painel HTTP/1.1[0m" 403 -
+2025-08-29 16:11:12,643 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:12] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:11:12,962 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:12] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:11:28,764 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:28] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:11:29,091 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:29] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:11:29,765 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:29] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:11:30,854 - INFO - 127.0.0.1 - - [29/Aug/2025 16:11:30] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-08-29 16:12:00,385 - INFO - 127.0.0.1 - - [29/Aug/2025 16:12:00] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:12:00,716 - INFO - 127.0.0.1 - - [29/Aug/2025 16:12:00] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:12:02,311 - INFO - 127.0.0.1 - - [29/Aug/2025 16:12:02] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:12:03,377 - INFO - 127.0.0.1 - - [29/Aug/2025 16:12:03] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:12:03,724 - INFO - 127.0.0.1 - - [29/Aug/2025 16:12:03] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:25:05,756 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-08-29 16:25:05,756 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 16:25:49,250 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-08-29 16:25:49,250 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 16:25:53,910 - INFO - 10.228.249.210 - - [29/Aug/2025 16:25:53] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:26:22,383 - INFO - 10.228.249.210 - - [29/Aug/2025 16:26:22] "POST /registro_log HTTP/1.1" 200 -
+2025-08-29 16:26:57,069 - INFO - 127.0.0.1 - - [29/Aug/2025 16:26:57] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:26:57,345 - INFO - 127.0.0.1 - - [29/Aug/2025 16:26:57] "GET /log HTTP/1.1" 200 -
+2025-08-29 16:28:16,418 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-08-29 16:28:16,419 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-29 16:28:21,769 - INFO - 10.228.249.210 - - [29/Aug/2025 16:28:21] "POST /verificar_tag HTTP/1.1" 200 -
+2025-08-29 16:28:47,156 - INFO - 10.228.249.210 - - [29/Aug/2025 16:28:47] "POST /registro_log HTTP/1.1" 200 -
+2025-08-29 16:28:51,969 - INFO - 127.0.0.1 - - [29/Aug/2025 16:28:51] "OPTIONS /log HTTP/1.1" 200 -
+2025-08-29 16:28:52,247 - INFO - 127.0.0.1 - - [29/Aug/2025 16:28:52] "GET /log HTTP/1.1" 200 -
+2025-09-01 14:46:06,221 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-01 14:46:06,239 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 14:48:27,049 - INFO - 127.0.0.1 - - [01/Sep/2025 14:48:27] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 14:48:27,127 - INFO - 127.0.0.1 - - [01/Sep/2025 14:48:27] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 14:50:10,148 - INFO - 127.0.0.1 - - [01/Sep/2025 14:50:10] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 14:50:10,415 - INFO - 127.0.0.1 - - [01/Sep/2025 14:50:10] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 14:52:04,607 - INFO - 127.0.0.1 - - [01/Sep/2025 14:52:04] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 14:52:04,877 - INFO - 127.0.0.1 - - [01/Sep/2025 14:52:04] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 14:57:13,241 - INFO - 127.0.0.1 - - [01/Sep/2025 14:57:13] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 14:57:13,504 - INFO - 127.0.0.1 - - [01/Sep/2025 14:57:13] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 14:58:56,456 - INFO - 127.0.0.1 - - [01/Sep/2025 14:58:56] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 14:58:56,722 - INFO - 127.0.0.1 - - [01/Sep/2025 14:58:56] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 14:59:53,653 - INFO - 127.0.0.1 - - [01/Sep/2025 14:59:53] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 14:59:53,958 - INFO - 127.0.0.1 - - [01/Sep/2025 14:59:53] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 15:00:19,917 - INFO - 127.0.0.1 - - [01/Sep/2025 15:00:19] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 15:00:20,237 - INFO - 127.0.0.1 - - [01/Sep/2025 15:00:20] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 15:06:07,303 - INFO - 127.0.0.1 - - [01/Sep/2025 15:06:07] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 15:06:07,569 - INFO - 127.0.0.1 - - [01/Sep/2025 15:06:07] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 15:07:04,373 - INFO - 127.0.0.1 - - [01/Sep/2025 15:07:04] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 15:07:04,694 - INFO - 127.0.0.1 - - [01/Sep/2025 15:07:04] "[31m[1mPOST /gerarcodigo HTTP/1.1[0m" 409 -
+2025-09-01 15:08:48,036 - INFO - 127.0.0.1 - - [01/Sep/2025 15:08:48] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 15:08:52,435 - INFO - E-mail enviado com sucesso.
+2025-09-01 15:08:52,435 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-01 15:08:52,437 - INFO - 127.0.0.1 - - [01/Sep/2025 15:08:52] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-01 15:09:15,493 - INFO - 127.0.0.1 - - [01/Sep/2025 15:09:15] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-01 15:09:15,958 - INFO - 127.0.0.1 - - [01/Sep/2025 15:09:15] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-01 15:09:28,794 - INFO - 127.0.0.1 - - [01/Sep/2025 15:09:28] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-01 15:09:29,430 - INFO - 127.0.0.1 - - [01/Sep/2025 15:09:29] "POST /cadastro HTTP/1.1" 200 -
+2025-09-01 15:13:37,424 - INFO - 127.0.0.1 - - [01/Sep/2025 15:13:37] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-01 15:13:37,455 - INFO - 127.0.0.1 - - [01/Sep/2025 15:13:37] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-01 15:13:37,457 - INFO - 127.0.0.1 - - [01/Sep/2025 15:13:37] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-01 15:13:37,688 - INFO - 127.0.0.1 - - [01/Sep/2025 15:13:37] "[31m[1mGET /master_painel HTTP/1.1[0m" 401 -
+2025-09-04 16:03:03,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 16:03:03,629 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 16:05:59,944 - INFO - 127.0.0.1 - - [04/Sep/2025 16:05:59] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:06:04,016 - INFO - E-mail enviado com sucesso.
+2025-09-04 16:06:04,016 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 16:06:04,017 - INFO - 127.0.0.1 - - [04/Sep/2025 16:06:04] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:06:30,221 - INFO - 127.0.0.1 - - [04/Sep/2025 16:06:30] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:06:30,722 - INFO - 127.0.0.1 - - [04/Sep/2025 16:06:30] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:06:44,631 - INFO - 127.0.0.1 - - [04/Sep/2025 16:06:44] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 16:06:45,211 - INFO - 127.0.0.1 - - [04/Sep/2025 16:06:45] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 16:07:14,239 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:14] "OPTIONS /login HTTP/1.1" 200 -
+2025-09-04 16:07:14,726 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:14] "POST /login HTTP/1.1" 200 -
+2025-09-04 16:07:14,881 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:14] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-04 16:07:15,209 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:15] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 16:07:15,219 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:15] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 16:07:15,228 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:15] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 16:07:19,573 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:19] "OPTIONS /aprovar/3 HTTP/1.1" 200 -
+2025-09-04 16:07:19,918 - INFO - 127.0.0.1 - - [04/Sep/2025 16:07:19] "[33mPOST /aprovar/3 HTTP/1.1[0m" 404 -
+2025-09-04 16:09:47,324 - INFO - Tag cadastrada com sucesso!
+2025-09-04 16:09:47,325 - INFO - 10.228.249.210 - - [04/Sep/2025 16:09:47] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-09-04 16:10:12,242 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:12] "OPTIONS /aprovar/3 HTTP/1.1" 200 -
+2025-09-04 16:10:12,655 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:12] "POST /aprovar/3 HTTP/1.1" 200 -
+2025-09-04 16:10:16,497 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:16] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-04 16:10:16,825 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:16] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 16:10:16,827 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:16] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 16:10:16,832 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:16] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 16:10:19,347 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:19] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 16:10:19,669 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:19] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 16:10:19,671 - INFO - 127.0.0.1 - - [04/Sep/2025 16:10:19] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 16:11:11,288 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:11] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-04 16:11:11,290 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:11] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 16:11:11,291 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:11] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 16:11:11,560 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:11] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 16:11:12,236 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:12] "OPTIONS /aprovar/3 HTTP/1.1" 200 -
+2025-09-04 16:11:12,571 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:12] "[31m[1mPOST /aprovar/3 HTTP/1.1[0m" 400 -
+2025-09-04 16:11:47,288 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:47] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-04 16:11:47,600 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:47] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 16:11:47,602 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:47] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 16:11:47,610 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:47] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 16:11:49,096 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:49] "OPTIONS /aprovar/3 HTTP/1.1" 200 -
+2025-09-04 16:11:49,474 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:49] "POST /aprovar/3 HTTP/1.1" 200 -
+2025-09-04 16:11:50,699 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:50] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 16:11:51,019 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:51] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 16:11:51,020 - INFO - 127.0.0.1 - - [04/Sep/2025 16:11:51] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 16:12:04,294 - INFO - 10.228.249.210 - - [04/Sep/2025 16:12:04] "POST /verificar_tag HTTP/1.1" 200 -
+2025-09-04 16:12:12,915 - INFO - 10.228.249.210 - - [04/Sep/2025 16:12:12] "POST /registro_log HTTP/1.1" 200 -
+2025-09-04 16:12:44,701 - INFO - 10.228.249.210 - - [04/Sep/2025 16:12:44] "POST /verificar_tag HTTP/1.1" 200 -
+2025-09-04 16:13:11,254 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:11] "OPTIONS /logout HTTP/1.1" 200 -
+2025-09-04 16:13:11,508 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:11] "POST /logout HTTP/1.1" 200 -
+2025-09-04 16:13:17,657 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:17] "OPTIONS /login HTTP/1.1" 200 -
+2025-09-04 16:13:18,144 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:18] "POST /login HTTP/1.1" 200 -
+2025-09-04 16:13:18,311 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:18] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-09-04 16:13:18,641 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:18] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-09-04 16:13:33,618 - INFO - 10.228.249.210 - - [04/Sep/2025 16:13:33] "POST /registro_log HTTP/1.1" 200 -
+2025-09-04 16:13:47,933 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:47] "OPTIONS /log HTTP/1.1" 200 -
+2025-09-04 16:13:48,290 - INFO - 127.0.0.1 - - [04/Sep/2025 16:13:48] "GET /log HTTP/1.1" 200 -
+2025-09-04 16:45:44,344 - INFO - 127.0.0.1 - - [04/Sep/2025 16:45:44] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-09-04 16:48:10,660 - INFO - 127.0.0.1 - - [04/Sep/2025 16:48:10] "POST /logout HTTP/1.1" 200 -
+2025-09-04 16:48:49,166 - INFO - 127.0.0.1 - - [04/Sep/2025 16:48:49] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:48:54,191 - INFO - E-mail enviado com sucesso.
+2025-09-04 16:48:54,192 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 16:48:54,193 - INFO - 127.0.0.1 - - [04/Sep/2025 16:48:54] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:49:27,214 - INFO - 127.0.0.1 - - [04/Sep/2025 16:49:27] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:49:27,524 - INFO - 127.0.0.1 - - [04/Sep/2025 16:49:27] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:49:51,413 - INFO - 127.0.0.1 - - [04/Sep/2025 16:49:51] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:49:51,726 - INFO - 127.0.0.1 - - [04/Sep/2025 16:49:51] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:50:22,398 - INFO - 127.0.0.1 - - [04/Sep/2025 16:50:22] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:50:22,804 - INFO - 127.0.0.1 - - [04/Sep/2025 16:50:22] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:50:54,479 - INFO - 127.0.0.1 - - [04/Sep/2025 16:50:54] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 16:50:55,068 - INFO - 127.0.0.1 - - [04/Sep/2025 16:50:55] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 16:51:08,493 - INFO - 127.0.0.1 - - [04/Sep/2025 16:51:08] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:51:12,210 - INFO - E-mail enviado com sucesso.
+2025-09-04 16:51:12,210 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 16:51:12,211 - INFO - 127.0.0.1 - - [04/Sep/2025 16:51:12] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:51:35,357 - INFO - 127.0.0.1 - - [04/Sep/2025 16:51:35] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 16:51:35,667 - INFO - 127.0.0.1 - - [04/Sep/2025 16:51:35] "[31m[1mPOST /cadastro HTTP/1.1[0m" 400 -
+2025-09-04 16:51:51,557 - INFO - 127.0.0.1 - - [04/Sep/2025 16:51:51] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 16:51:52,139 - INFO - 127.0.0.1 - - [04/Sep/2025 16:51:52] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 16:53:18,483 - INFO - 127.0.0.1 - - [04/Sep/2025 16:53:18] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:53:22,128 - INFO - E-mail enviado com sucesso.
+2025-09-04 16:53:22,128 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 16:53:22,130 - INFO - 127.0.0.1 - - [04/Sep/2025 16:53:22] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:54:07,270 - INFO - 127.0.0.1 - - [04/Sep/2025 16:54:07] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:54:07,682 - INFO - 127.0.0.1 - - [04/Sep/2025 16:54:07] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:54:15,680 - INFO - 127.0.0.1 - - [04/Sep/2025 16:54:15] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 16:54:16,296 - INFO - 127.0.0.1 - - [04/Sep/2025 16:54:16] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 16:55:17,853 - INFO - 127.0.0.1 - - [04/Sep/2025 16:55:17] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:55:21,045 - INFO - E-mail enviado com sucesso.
+2025-09-04 16:55:21,045 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 16:55:21,047 - INFO - 127.0.0.1 - - [04/Sep/2025 16:55:21] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:55:32,573 - INFO - 127.0.0.1 - - [04/Sep/2025 16:55:32] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:55:33,074 - INFO - 127.0.0.1 - - [04/Sep/2025 16:55:33] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:55:41,239 - INFO - 127.0.0.1 - - [04/Sep/2025 16:55:41] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 16:55:41,805 - INFO - 127.0.0.1 - - [04/Sep/2025 16:55:41] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 16:59:15,795 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 16:59:15,795 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 16:59:15,804 - INFO - 127.0.0.1 - - [04/Sep/2025 16:59:15] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:59:19,354 - INFO - E-mail enviado com sucesso.
+2025-09-04 16:59:19,354 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 16:59:19,356 - INFO - 127.0.0.1 - - [04/Sep/2025 16:59:19] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 16:59:35,279 - INFO - 127.0.0.1 - - [04/Sep/2025 16:59:35] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:59:35,748 - INFO - 127.0.0.1 - - [04/Sep/2025 16:59:35] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 16:59:43,552 - INFO - 127.0.0.1 - - [04/Sep/2025 16:59:43] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 16:59:44,098 - INFO - 127.0.0.1 - - [04/Sep/2025 16:59:44] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 17:12:37,733 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 17:12:37,734 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 17:15:47,369 - INFO - 127.0.0.1 - - [04/Sep/2025 17:15:47] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 17:15:50,917 - INFO - E-mail enviado com sucesso.
+2025-09-04 17:15:50,918 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 17:15:50,919 - INFO - 127.0.0.1 - - [04/Sep/2025 17:15:50] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 17:26:17,801 - INFO - 127.0.0.1 - - [04/Sep/2025 17:26:17] "OPTIONS /login HTTP/1.1" 200 -
+2025-09-04 17:26:18,257 - INFO - 127.0.0.1 - - [04/Sep/2025 17:26:18] "POST /login HTTP/1.1" 200 -
+2025-09-04 17:26:18,392 - INFO - 127.0.0.1 - - [04/Sep/2025 17:26:18] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-09-04 17:26:18,729 - INFO - 127.0.0.1 - - [04/Sep/2025 17:26:18] "GET /pagina_inicial HTTP/1.1" 200 -
+2025-09-04 17:26:19,559 - INFO - 127.0.0.1 - - [04/Sep/2025 17:26:19] "OPTIONS /log HTTP/1.1" 200 -
+2025-09-04 17:26:19,883 - INFO - 127.0.0.1 - - [04/Sep/2025 17:26:19] "GET /log HTTP/1.1" 200 -
+2025-09-04 17:59:56,570 - INFO - 127.0.0.1 - - [04/Sep/2025 17:59:56] "OPTIONS /pagina_inicial HTTP/1.1" 200 -
+2025-09-04 17:59:57,589 - INFO - 127.0.0.1 - - [04/Sep/2025 17:59:57] "POST /logout HTTP/1.1" 200 -
+2025-09-04 18:02:20,509 - INFO - 127.0.0.1 - - [04/Sep/2025 18:02:20] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 18:02:24,125 - INFO - E-mail enviado com sucesso.
+2025-09-04 18:02:24,125 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 18:02:24,126 - INFO - 127.0.0.1 - - [04/Sep/2025 18:02:24] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 18:02:41,062 - INFO - 127.0.0.1 - - [04/Sep/2025 18:02:41] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:02:41,411 - INFO - 127.0.0.1 - - [04/Sep/2025 18:02:41] "[31m[1mPOST /verificar_codigo HTTP/1.1[0m" 400 -
+2025-09-04 18:03:09,390 - INFO - 127.0.0.1 - - [04/Sep/2025 18:03:09] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:03:09,807 - INFO - 127.0.0.1 - - [04/Sep/2025 18:03:09] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:04:32,713 - INFO - 127.0.0.1 - - [04/Sep/2025 18:04:32] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 18:04:33,235 - INFO - 127.0.0.1 - - [04/Sep/2025 18:04:33] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 18:05:24,340 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 18:05:24,341 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 18:14:22,141 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 18:14:22,141 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 18:21:39,038 - INFO - 127.0.0.1 - - [04/Sep/2025 18:21:39] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 18:21:43,004 - INFO - E-mail enviado com sucesso.
+2025-09-04 18:21:43,004 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 18:21:43,006 - INFO - 127.0.0.1 - - [04/Sep/2025 18:21:43] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 18:22:00,071 - INFO - 127.0.0.1 - - [04/Sep/2025 18:22:00] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:22:00,405 - INFO - 127.0.0.1 - - [04/Sep/2025 18:22:00] "[31m[1mPOST /verificar_codigo HTTP/1.1[0m" 400 -
+2025-09-04 18:22:10,510 - INFO - 127.0.0.1 - - [04/Sep/2025 18:22:10] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:22:10,944 - INFO - 127.0.0.1 - - [04/Sep/2025 18:22:10] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:22:29,928 - INFO - 127.0.0.1 - - [04/Sep/2025 18:22:29] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 18:22:30,461 - ERROR - Exception on /cadastro [POST]
+Traceback (most recent call last):
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\aluno\PycharmProjects\ESP32\Database_ESP32_2025.py", line 416, in cadastro
+    proximo_id = db.session.query(func.max(Verificar.id)).scalar()
+                                           ^^^^^^^^^^^^
+AttributeError: type object 'Verificar' has no attribute 'id'
+2025-09-04 18:22:30,554 - INFO - 127.0.0.1 - - [04/Sep/2025 18:22:30] "[35m[1mPOST /cadastro HTTP/1.1[0m" 500 -
+2025-09-04 18:23:01,224 - INFO - 127.0.0.1 - - [04/Sep/2025 18:23:01] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 18:23:01,743 - ERROR - Exception on /cadastro [POST]
+Traceback (most recent call last):
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\aluno\PycharmProjects\ESP32\Database_ESP32_2025.py", line 416, in cadastro
+    proximo_id = db.session.query(func.max(Verificar.id)).scalar()
+                                           ^^^^^^^^^^^^
+AttributeError: type object 'Verificar' has no attribute 'id'
+2025-09-04 18:23:01,745 - INFO - 127.0.0.1 - - [04/Sep/2025 18:23:01] "[35m[1mPOST /cadastro HTTP/1.1[0m" 500 -
+2025-09-04 18:23:52,508 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 18:23:52,509 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 18:23:55,352 - INFO - 127.0.0.1 - - [04/Sep/2025 18:23:55] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 18:23:55,869 - ERROR - Exception on /cadastro [POST]
+Traceback (most recent call last):
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\aluno\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\aluno\PycharmProjects\ESP32\Database_ESP32_2025.py", line 417, in cadastro
+    proximo_id = db.session.query(func.max(Verificar.id)).scalar()
+                                           ^^^^^^^^^^^^
+AttributeError: type object 'Verificar' has no attribute 'id'
+2025-09-04 18:23:55,873 - INFO - 127.0.0.1 - - [04/Sep/2025 18:23:55] "[35m[1mPOST /cadastro HTTP/1.1[0m" 500 -
+2025-09-04 18:24:26,478 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 18:24:26,478 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 18:24:29,691 - INFO - 127.0.0.1 - - [04/Sep/2025 18:24:29] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 18:24:30,242 - INFO - 127.0.0.1 - - [04/Sep/2025 18:24:30] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 18:25:07,702 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:07] "OPTIONS /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 18:25:11,036 - INFO - E-mail enviado com sucesso.
+2025-09-04 18:25:11,037 - INFO - Código enviado! Verifique seu e-mail.
+2025-09-04 18:25:11,038 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:11] "POST /gerarcodigo HTTP/1.1" 200 -
+2025-09-04 18:25:22,118 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:22] "OPTIONS /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:25:22,581 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:22] "POST /verificar_codigo HTTP/1.1" 200 -
+2025-09-04 18:25:29,666 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:29] "OPTIONS /cadastro HTTP/1.1" 200 -
+2025-09-04 18:25:30,278 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:30] "POST /cadastro HTTP/1.1" 200 -
+2025-09-04 18:25:53,119 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:53] "OPTIONS /login HTTP/1.1" 200 -
+2025-09-04 18:25:53,605 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:53] "POST /login HTTP/1.1" 200 -
+2025-09-04 18:25:53,715 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:53] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-04 18:25:54,059 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:54] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 18:25:54,070 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:54] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 18:25:54,073 - INFO - 127.0.0.1 - - [04/Sep/2025 18:25:54] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 18:26:23,032 - INFO - 10.228.249.210 - - [04/Sep/2025 18:26:23] "POST /verificar_tag HTTP/1.1" 200 -
+2025-09-04 18:26:32,284 - INFO - 10.228.249.210 - - [04/Sep/2025 18:26:32] "POST /registro_log HTTP/1.1" 200 -
+2025-09-04 18:30:26,972 - INFO - 127.0.0.1 - - [04/Sep/2025 18:30:26] "OPTIONS /aprovar/1 HTTP/1.1" 200 -
+2025-09-04 18:30:27,342 - INFO - 127.0.0.1 - - [04/Sep/2025 18:30:27] "POST /aprovar/1 HTTP/1.1" 200 -
+2025-09-04 18:30:28,679 - INFO - 127.0.0.1 - - [04/Sep/2025 18:30:28] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-04 18:30:28,994 - INFO - 127.0.0.1 - - [04/Sep/2025 18:30:28] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 18:30:28,996 - INFO - 127.0.0.1 - - [04/Sep/2025 18:30:28] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 18:30:28,997 - INFO - 127.0.0.1 - - [04/Sep/2025 18:30:28] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 18:31:45,047 - INFO - 127.0.0.1 - - [04/Sep/2025 18:31:45] "OPTIONS /aprovar/2 HTTP/1.1" 200 -
+2025-09-04 18:31:45,395 - INFO - 127.0.0.1 - - [04/Sep/2025 18:31:45] "POST /aprovar/2 HTTP/1.1" 200 -
+2025-09-04 18:31:46,322 - INFO - 127.0.0.1 - - [04/Sep/2025 18:31:46] "OPTIONS /master_painel HTTP/1.1" 200 -
+2025-09-04 18:31:46,647 - INFO - 127.0.0.1 - - [04/Sep/2025 18:31:46] "GET /pedidos_tag HTTP/1.1" 200 -
+2025-09-04 18:31:46,648 - INFO - 127.0.0.1 - - [04/Sep/2025 18:31:46] "GET /lista_pendentes HTTP/1.1" 200 -
+2025-09-04 18:31:46,649 - INFO - 127.0.0.1 - - [04/Sep/2025 18:31:46] "GET /master_painel HTTP/1.1" 200 -
+2025-09-04 18:33:46,887 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-04 18:33:46,887 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 18:34:56,106 - INFO - 127.0.0.1 - - [04/Sep/2025 18:34:56] "OPTIONS /logout HTTP/1.1" 200 -
+2025-09-04 18:34:56,367 - INFO - 127.0.0.1 - - [04/Sep/2025 18:34:56] "POST /logout HTTP/1.1" 200 -
+2025-09-05 17:08:14,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://10.228.250.156:5050
+2025-09-05 17:08:14,514 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 17:08:53,419 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:08:53,420 - INFO - 10.228.249.210 - - [05/Sep/2025 17:08:53] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:08:57,098 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:08:57,098 - INFO - 10.228.249.210 - - [05/Sep/2025 17:08:57] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:08:57,376 - INFO - Você não pode excluir uma tag associada a alguém!
+2025-09-05 17:08:57,377 - INFO - 10.228.249.210 - - [05/Sep/2025 17:08:57] "[31m[1mPOST /cadastro_tag HTTP/1.1[0m" 422 -
+2025-09-05 17:08:59,661 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:08:59,662 - INFO - 10.228.249.210 - - [05/Sep/2025 17:08:59] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:39,962 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:09:39,962 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:39] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:41,489 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:09:41,490 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:41] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:45,291 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:09:45,293 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:45] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:46,226 - INFO - Você não pode excluir uma tag associada a alguém!
+2025-09-05 17:09:46,228 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:46] "[31m[1mPOST /cadastro_tag HTTP/1.1[0m" 422 -
+2025-09-05 17:09:47,782 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:09:47,783 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:47] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:51,756 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:09:51,756 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:51] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:52,359 - INFO - Você não pode excluir uma tag associada a alguém!
+2025-09-05 17:09:52,360 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:52] "[31m[1mPOST /cadastro_tag HTTP/1.1[0m" 422 -
+2025-09-05 17:09:54,093 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:09:54,094 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:54] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:57,931 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:09:57,932 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:57] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:09:58,601 - INFO - Você não pode excluir uma tag associada a alguém!
+2025-09-05 17:09:58,602 - INFO - 10.228.249.210 - - [05/Sep/2025 17:09:58] "[31m[1mPOST /cadastro_tag HTTP/1.1[0m" 422 -
+2025-09-05 17:10:00,525 - INFO - Deseja excluir a tag 5370D1D9?
+2025-09-05 17:10:00,526 - INFO - 10.228.249.210 - - [05/Sep/2025 17:10:00] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:38:55,085 - INFO - Tag cadastrada com sucesso!
+2025-09-05 17:38:55,087 - INFO - 10.228.249.210 - - [05/Sep/2025 17:38:55] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-09-05 17:38:59,624 - INFO - Deseja excluir a tag 734710D8?
+2025-09-05 17:38:59,625 - INFO - 10.228.249.210 - - [05/Sep/2025 17:38:59] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:39:03,153 - INFO - Deseja excluir a tag 734710D8?
+2025-09-05 17:39:03,154 - INFO - 10.228.249.210 - - [05/Sep/2025 17:39:03] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:39:03,459 - INFO - Tag excluída com sucesso!
+2025-09-05 17:39:03,459 - INFO - 10.228.249.210 - - [05/Sep/2025 17:39:03] "POST /cadastro_tag HTTP/1.1" 200 -
+2025-09-05 17:39:12,550 - INFO - Tag cadastrada com sucesso!
+2025-09-05 17:39:12,550 - INFO - 10.228.249.210 - - [05/Sep/2025 17:39:12] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 201 -
+2025-09-05 17:39:16,297 - INFO - Deseja excluir a tag 734710D8?
+2025-09-05 17:39:16,297 - INFO - 10.228.249.210 - - [05/Sep/2025 17:39:16] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:39:19,840 - INFO - Deseja excluir a tag 734710D8?
+2025-09-05 17:39:19,842 - INFO - 10.228.249.210 - - [05/Sep/2025 17:39:19] "[35m[1mPOST /cadastro_tag HTTP/1.1[0m" 202 -
+2025-09-05 17:39:20,133 - INFO - Tag excluída com sucesso!
+2025-09-05 17:39:20,134 - INFO - 10.228.249.210 - - [05/Sep/2025 17:39:20] "POST /cadastro_tag HTTP/1.1" 200 -
