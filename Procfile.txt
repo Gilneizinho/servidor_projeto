@@ -1,0 +1,1 @@
+web: gunicorn --workers 2 --threads 5 -b 0.0.0.0:$PORT backend:app --access-logfile - --error-logfile -
