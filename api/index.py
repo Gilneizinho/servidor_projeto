@@ -83,7 +83,7 @@ class Master(db.Model):
     def verificar_senha(self, senha):
         return check_password_hash(self.senha, senha)
 
-logging.basicConfig(filename="log.txt", level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename="/tmp/log.txt", level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 def criar_token(usuario, tipo_usuario):
@@ -534,4 +534,5 @@ if __name__ == "__main__":
     with app.app_context():
         enforce_foreign_keys()
         db.create_all()
+
     app.run(host="0.0.0.0", port=5050)
